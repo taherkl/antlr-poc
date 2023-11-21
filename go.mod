@@ -1,4 +1,4 @@
-module translator
+module github.com/taherkl/antlr-poc
 
 go 1.20
 

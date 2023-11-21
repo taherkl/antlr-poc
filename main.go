@@ -5,8 +5,7 @@ import (
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 
-	// Import the generated lexer and parser packages
-	parser "./parser" // Replace with the actual package name of your generated files
+	"github.com/taherkl/antlr-poc/parser"
 )
 
 func main() {
